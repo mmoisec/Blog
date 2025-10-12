@@ -28,3 +28,5 @@ Una vez habilitada esta vista, podremos ver todas las cadenas que contiene nuest
 Hacemos doble click en un texto que queremos ver para que no lleve a la sección en la que está almacenado. Podemos ver que las dos cadenas de texto están en la sección `.rodata`
 
 <img width="1900" height="640" alt="image" src="https://github.com/user-attachments/assets/dc8be3f2-3ad8-4e81-93cb-5d0ba5c1455a" />
+
+Para los que son nuevos en reversing 
